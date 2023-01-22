@@ -1,0 +1,14 @@
+/* .result{
+    animation: myAni 2s alternate;
+} */
+
+/* @keyframes myAni{
+    1%{
+       font-size: 50px;
+   }
+   
+} */
+
+body{
+    background-color: green;
+}
